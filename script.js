@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", setupEvents);
+setupEvents();
 
 function setupEvents() {
     const eventCards = document.querySelectorAll(".event-card");
